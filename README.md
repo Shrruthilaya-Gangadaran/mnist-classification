@@ -125,7 +125,7 @@ print(x_single_prediction)
 
 
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
 ![](final.png)
 
 ## RESULT
