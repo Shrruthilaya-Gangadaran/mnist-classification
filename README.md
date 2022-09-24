@@ -3,6 +3,8 @@
 ## AIM
 
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
+## NEURAL NETWORK MODEL:
+![](nnmodel.webp)
 
 ## DESIGN STEPS
 
